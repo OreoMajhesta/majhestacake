@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Putri Salju",
+		"image": "Product-Image/product-1.jpg",
+		"price": "65.000,00 / 500 g",
+		"jenis" : "kering"
+	},
+	{
+		"name": "Nastar Keju",
+		"image": "Product-Image/product-2.jpg",
+		"price": "85.000,00 / 500 g",
+		"jenis" : "kering"
+	},
+    {
+        "name": "Kastengel",
+		"image": "Product-Image/product-3.jpg",
+		"price": "95.000,00 / 500 g",
+		"jenis" : "kering"
+    },
+	{
+        "name": "Bronis Kukus",
+		"image": "Product-Image/product-4.jpg",
+		"price": "40.000,00 / 20 x 20 cm",
+		"jenis" : "basah"
+    },
+	{
+        "name": "Cake Keju",
+		"image": "Product-Image/product-5.jpg",
+		"price": "45.000,00 / 20 x 20 cm",
+		"jenis" : "basah"
+    },
+	{
+		"name": "Putri Salju",
+		"image": "Product-Image/product-1.jpg",
+		"price": "65.000,00 / 500 g",
+		"jenis" : "kering"
+	},
+	{
+		"name": "Nastar Keju",
+		"image": "Product-Image/product-2.jpg",
+		"price": "85.000,00 / 500 g",
+		"jenis" : "kering"
+	},
+    {
+        "name": "Kastengel",
+		"image": "Product-Image/product-3.jpg",
+		"price": "95.000,00 / 500 g",
+		"jenis" : "kering"
+    },
+	{
+        "name": "Bronis Kukus",
+		"image": "Product-Image/product-4.jpg",
+		"price": "40.000,00 / 20 x 20 cm",
+		"jenis" : "basah"
+    },
+	{
+        "name": "Cake Keju",
+		"image": "Product-Image/product-5.jpg",
+		"price": "45.000,00 / 20 x 20 cm",
+		"jenis" : "basah"
+    },
+	{
+		"name": "Putri Salju",
+		"image": "Product-Image/product-1.jpg",
+		"price": "65.000,00 / 500 g",
+		"jenis" : "kering"
+	},
+	{
+		"name": "Nastar Keju",
+		"image": "Product-Image/product-2.jpg",
+		"price": "85.000,00 / 500 g",
+		"jenis" : "kering"
+	},
+    {
+        "name": "Kastengel",
+		"image": "Product-Image/product-3.jpg",
+		"price": "95.000,00 / 500 g",
+		"jenis" : "kering"
+    },
+	{
+        "name": "Bronis Kukus",
+		"image": "Product-Image/product-4.jpg",
+		"price": "40.000,00 / 20 x 20 cm",
+		"jenis" : "basah"
+    },
+	{
+        "name": "Cake Keju",
+		"image": "Product-Image/product-5.jpg",
+		"price": "45.000,00 / 20 x 20 cm",
+		"jenis" : "basah"
+    }
+]
